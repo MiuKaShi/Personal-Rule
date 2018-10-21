@@ -47,3 +47,15 @@ DOMAIN,linear-abematv.akamaized.net
 USER-AGENT,WeMusic*
 USER-AGENT,JOOX*
 DOMAIN-SUFFIX,joox.com
+# - NBA
+USER-AGENT,NBA*
+DOMAIN-SUFFIX,nba.com
+DOMAIN-SUFFIX,nba.net
+# - SlingTV
+USER-AGENT,NBA*
+DOMAIN-SUFFIX,slingtv.com
+DOMAIN-SUFFIX,slingtv.net
+# - DirectvNow
+USER-AGENT,NBA*
+DOMAIN-SUFFIX,directvnow.com
+DOMAIN-SUFFIX,directvnow.net
