@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN,youtubei.googleapis.com
 # - Netflix
 USER-AGENT,Argo*
+DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflxext.com
@@ -59,3 +60,43 @@ DOMAIN-SUFFIX,slingtv.net
 USER-AGENT,NBA*
 DOMAIN-SUFFIX,directvnow.com
 DOMAIN-SUFFIX,directvnow.net
+# - FuboTV
+USER-AGENT,NBA*
+DOMAIN-SUFFIX,fubo.tv
+
+# A
+DOMAIN,abc.go.com
+# C
+DOMAIN-SUFFIX,claspws.tv
+# D
+DOMAIN-SUFFIX,dnlive.tv
+DOMAIN-SUFFIX,dnvod.tv
+DOMAIN-SUFFIX,duonao.tv
+# G
+DOMAIN,abc.go.com
+# J
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwpltx.com
+DOMAIN-SUFFIX,jwplayer.com
+# L
+DOMAIN-SUFFIX,lovetvshow.com
+DOMAIN-SUFFIX,lovetvshow.info
+DOMAIN-SUFFIX,litv.tv
+# M
+DOMAIN-SUFFIX,muzu.tv
+# P
+DOMAIN-SUFFIX,pscp.tv
+# T
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,tv.com
+DOMAIN-SUFFIX,tvcdn.de
+DOMAIN-SUFFIX,tv-static.net
+# U
+DOMAIN-SUFFIX,ustream.tv
+# V
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.tv
+# X
+DOMAIN-SUFFIX,xvideos.com
