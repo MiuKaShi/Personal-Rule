@@ -53,15 +53,14 @@ USER-AGENT,NBA*
 DOMAIN-SUFFIX,nba.com
 DOMAIN-SUFFIX,nba.net
 # - SlingTV
-USER-AGENT,NBA*
-DOMAIN-SUFFIX,slingtv.com
-DOMAIN-SUFFIX,slingtv.net
+USER-AGENT,Sling%20TV*,
+USER-AGENT,DFW*,
 # - DirectvNow
-USER-AGENT,NBA*
+USER-AGENT,Directvnow*
 DOMAIN-SUFFIX,directvnow.com
 DOMAIN-SUFFIX,directvnow.net
 # - FuboTV
-USER-AGENT,NBA*
+USER-AGENT,FuboTV*
 DOMAIN-SUFFIX,fubo.tv
 
 # A
