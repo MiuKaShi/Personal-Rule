@@ -23,12 +23,15 @@ DOMAIN-SUFFIX,hbogo.com
 USER-AGENT,Hulu*
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
-DOMAIN-KEYWORD,bbcfmt
-DOMAIN-KEYWORD,uk-live
+DOMAIN-KEYWORD,hulu
 # - BBC iPlayer
 USER-AGENT,BBCiPlayer*
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-KEYWORD,uk-live
+DOMAIN-SUFFIX,bbc.com
+//Amazon prime video
+DOMAIN-KEYWORD,amazon
 # - Bahamut
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,bahamut.com.tw
@@ -43,6 +46,11 @@ USER-AGENT,AbemaTV*
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,hayabusa.io
+// Foxnow
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,.foxdcg.com
+DOMAIN-SUFFIX,foxnow.com
+DOMAIN-SUFFIX,config.fox.com
 DOMAIN,linear-abematv.akamaized.net
 # - JOOX
 USER-AGENT,WeMusic*
